@@ -32,13 +32,13 @@ Purpose of bot: Purpose of bot is to find optimal timing for meeting among the u
 We have deployed the chat bot to slack channel- this https://azrabot.slack.com/
 We have made 3 dummy users :
 
-      1.UserID: azra.mem.one@gmail.com Password: azra1234  Slack_Username: dummy.one
+      1.UserID: azra.mem.one@gmail.com Password: ****  Slack_Username: dummy.one
       
-      2.UserID: azra.mem.two@gmail.com Password: azra1234  Slack_Username: dummy.two
+      2.UserID: azra.mem.two@gmail.com Password: ****  Slack_Username: dummy.two
       
-      3.UserID: azra.mem.three@gmail.com Password: azra1234  Slack_Username: dummy.three
+      3.UserID: azra.mem.three@gmail.com Password: ****  Slack_Username: dummy.three
       
-      1.UserID: azra.ta.one@gmail.com Password: azra1234  Slack_Username: ta.one
+      1.UserID: azra.ta.one@gmail.com Password: ****  Slack_Username: ta.one
 
 Kindly log in to this channel using any of the above credentials. And one can check the calendars of these dummy users through the same userid and passwords. 
 Please find google-calendars at https://calendar.google.com/
